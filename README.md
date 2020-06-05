@@ -104,6 +104,6 @@ D:\AWS\assignment>aws lambda create-event-source-mapping  --function-name AWS  -
     "StateTransitionReason": "USER_INITIATED"
 }
 
-**The Link to the Video is :** https://teams.microsoft.com/_#/my/file-personal?context=AWS%2520POC&rootfolder=%252Fpersonal%252Fkaran_shah_theaa_com%252FDocuments%252FAWS%2520POC
+# The Link to the Video is : https://teams.microsoft.com/_#/my/file-personal?context=AWS%2520POC&rootfolder=%252Fpersonal%252Fkaran_shah_theaa_com%252FDocuments%252FAWS%2520POC
 	
 	
